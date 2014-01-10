@@ -38,8 +38,8 @@ Learning is so stigmatized, that even the word itself is perceived as negative.
 
 {{multipleChoice {
 	"questions": [
-    	{ content: "The next question is false.", "true": false },
-    	{ content: "The previous question is true.", "true": true }
+    	{ "content": "The next question is false.", "true": false },
+    	{ "content": "The previous question is true.", "true": true }
     ]
 }}}
 
