@@ -33,5 +33,11 @@ Learning and teaching isn't efficient enough.
 It's based on one model fits all.
 Learning is so stigmatized, that even the word itself is perceived as negative.
 
+---
+# multipleChoice Test
+
+{{multipleChoice {
+	"questions": "hahaha"
+}}}
 
 
