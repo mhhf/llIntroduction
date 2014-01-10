@@ -37,7 +37,10 @@ Learning is so stigmatized, that even the word itself is perceived as negative.
 # multipleChoice Test
 
 {{multipleChoice {
-	"questions": "hahaha"
+	"questions": [
+    	{ content: "The next question is false.", "true": false },
+    	{ content: "The previous question is true.", "true": true }
+    ]
 }}}
 
 
