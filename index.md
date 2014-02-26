@@ -1,9 +1,11 @@
 # Liquid Learning
-### - programming knowledge -
 
 ???
-
 This will give you a little introduction to the liquid learning concept.
+???
+
+## - programming knowledge -
+???
 As you see, this presentation is already done with this platform!
 First of all: what is Liquid Learning.
 Liquid Learning try to establish a new form of social learning.
