@@ -16,9 +16,9 @@ Its a platform where people collaboratively create and take part on interactive 
                                                                                  
 ???                                                                             
                                                                                  
-First I will tell you something about the problems I saw.                       
-Then about a few solutions I had in mind for this problem                       
-and in the end, my plans for the first alpha version.                           
+First I will tell you something about the problems I saw.
+Then about a few solutions I had in mind for this problem
+and in the end, my plans for the first alpha version.
 ???
 
 #### key problems
