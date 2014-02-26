@@ -10,6 +10,16 @@ Liquid Learning try to establish a new form of social learning.
 Its a platform where people collaboratively create and take part on interactive courses.
 ???
 
+1. key problems                                                                 
+2. solution                                                                     
+3. first Alpha                                                                  
+                                                                                 
+???                                                                             
+                                                                                 
+First I will tell you something about the problems I saw.                       
+Then about a few solutions I had in mind for this problem                       
+and in the end, my plans for the first alpha version.                           
+???
 
 #### key problems
 ![image](http://i.imgur.com/QL1vGjK.jpg)
