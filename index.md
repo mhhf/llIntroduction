@@ -2,7 +2,7 @@
 
 {{#???}}
 This will give you a little introduction to the liquid learning concept.
-This is how a new sentance is born.
+This is a new english sentance.
 {{/???}}
 
 ## - programming knowledge -
