@@ -6,8 +6,8 @@ This is a new english sentance.
 {{/???}}
 
 ## - programming knowledge -
-{{#???}}
-As you see, this presentation is already done with this platform!
+{{#??? de}}
+Das ist ein deutscher Satz!
 {{/???}}
 
 1. key problems                                                                 
