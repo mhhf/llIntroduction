@@ -7,7 +7,7 @@ This is a new english sentance.
 
 ## - programming knowledge -
 {{#??? de}}
-Das ist ein deutscher Satz!
+Das ist ein deutscher Käse!
 {{/???}}
 
 1. key problems                                                                 
