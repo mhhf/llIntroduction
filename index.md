@@ -7,7 +7,7 @@ This is a new english sentance.
 
 ## - programming knowledge -
 {{#??? de}}
-Das ist ein deutscher Käse!
+Das ist ein deutscher Fuß!
 {{/???}}
 
 1. key problems                                                                 
