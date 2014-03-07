@@ -7,7 +7,7 @@ This is a new english sentance.
 
 ## - programming knowledge -
 {{#??? de}}
-Das ist ein deutscher Fuß!
+Das ist ein deutscher Wirt!
 {{/???}}
 
 1. key problems                                                                 
